@@ -1,5 +1,5 @@
 {
-    "name": "vasrush/etsy-php",
+    "name": "inakiabt/etsy-php",
     "version": "0.11.0",
     "description": "Simple PHP wrapper for Etsy API",
     "license": "MIT",
